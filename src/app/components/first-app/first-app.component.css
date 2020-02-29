@@ -1,0 +1,9 @@
+.event{
+    border:1px solid #ff0000;
+    background-color: seagreen;
+    color:#ffff00;
+    padding:20px;
+    display:inline-block;
+    width:300px;
+    margin:10px;
+}
